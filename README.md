@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=watahaizian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watahaizian&layout=compact)](https://github.com/watahaizian/github-readme-stats)
 
 
