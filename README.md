@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=watahaizian&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watahaizian&layout=compact)](https://github.com/watahaizian/github-readme-stats)
 
 
